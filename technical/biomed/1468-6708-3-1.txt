@@ -3,6 +3,12 @@
     
       
         Introduction
+
+
+
+
+
+
         Older adults are frequently counseled to lose weight,
         even though there is little evidence that overweight is
         associated with increased mortality in those over age 65.
@@ -14,6 +20,11 @@
         with moderately high BMI had little or no extra risk except
         in certain small subsets. A review of 13 studies of older
         adults drew similar conclusions [ 7 ] .
+
+
+
+
+        
         Many healthy older adults report gradual weight gain
         throughout adult life. It may be that a small amount of
         gradual weight gain is normative and associated with the
@@ -24,6 +35,12 @@
         because few studies have examined the relation of BMI to
         quality of life or years of healthy life (YHL) in the
         elderly [ 9 ] .
+
+
+
+
+
+
         In older adults, risk factors may have a greater effect
         on health than on mortality. If so, then behavior change
         trials of weight modification might be more successful if
@@ -44,6 +61,11 @@
       
         Materials and methods
         
+
+
+
+
+
           Study design: The Cardiovascular Health
           Study
           The Cardiovascular Health Study (CHS) is a
@@ -62,6 +84,9 @@
           complete for all surviving subjects [ 12 ] .
         
         
+
+
+
           Body mass index
           BMI was calculated as measured weight in kilograms
           divided by the square of measured height in meters. A
@@ -74,6 +99,12 @@
           above.
         
         
+
+
+
+
+
+
           Years of life and years of healthy life
           YOL is the number of years that a person lived in the
           7 years after baseline. YHL is the number of years in
